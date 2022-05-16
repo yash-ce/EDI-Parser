@@ -1,0 +1,6 @@
+from edi_835_parser import parse
+
+path = 'G:\EDI Py\edi1.txt'
+transaction_set = parse(path)
+data = transaction_set.to_dataframe()
+data.to_csv('G:\EDI Py\edi1.csv')
