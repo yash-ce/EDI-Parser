@@ -10,5 +10,5 @@ Use JSON file as you like.
 
 # Prerequisites 
 1> IDE should be installed in your system                                                                                   
-2> Node.js should be there for running the .js file 
+2> Node.js should be there for running the .js file                                                                                                       
 3> git to be installed for cloning. => If not download the zip file istead of cloning it.
