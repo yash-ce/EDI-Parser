@@ -4,7 +4,7 @@ EDI 837 is the format established to meet HIPAA requirements for the electronic 
 # How to use
 Step 1 : Clone the repository using the command : git clone https://github.com/yash-ce/X12-Parser.git                                                                    
 Step 2 : Copy the edi 837 text and paste it in edi_837.txt file 
-Step 3 : Run parser.js file in your system  
+Step 3 : Run parser.js file in your system                                                                                                                    
 Step 4 : The output of the file will be in ParsedEDI.json (newly created in same directory)                                                                                                           
 Use JSON file as you like.
 
